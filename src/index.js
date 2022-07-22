@@ -1,5 +1,5 @@
 import { saludar } from './js/componentes.js'
 import './styles.css'
 
-const nombre = 'Fernando'
+const nombre = 'Fernando Carrillo'
 saludar(nombre)
